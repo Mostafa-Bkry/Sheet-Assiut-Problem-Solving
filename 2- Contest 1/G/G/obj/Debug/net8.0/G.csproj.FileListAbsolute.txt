@@ -1,0 +1,14 @@
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\G.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\G.AssemblyInfoInputs.cache
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\G.AssemblyInfo.cs
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\G.csproj.CoreCompileInputs.cache
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\bin\Debug\net8.0\G.exe
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\bin\Debug\net8.0\G.deps.json
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\bin\Debug\net8.0\G.runtimeconfig.json
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\bin\Debug\net8.0\G.dll
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\bin\Debug\net8.0\G.pdb
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\G.dll
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\refint\G.dll
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\G.pdb
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\G.genruntimeconfig.cache
+D:\Learning\Problem Solving\Sheet Assuit 2024\2- Contest 1\G\G\obj\Debug\net8.0\ref\G.dll

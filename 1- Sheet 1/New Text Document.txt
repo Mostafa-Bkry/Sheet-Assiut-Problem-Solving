@@ -1,0 +1,32 @@
+namespace Y
+{
+    internal class Program
+    {
+        public static void Last2DigitsFromMul(ulong a, ulong b, ulong c, ulong d)
+        {
+            ulong mul1 = a * b;
+            ulong mul2 = c * d;
+            ulong mul = mul1 * mul2;
+            Console.WriteLine(mul);
+            Console.WriteLine($"{mul.ToString()[mul.ToString().Length - 2]}{mul.ToString()[mul.ToString().Length - 1]}");
+        }
+
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                string? input = Console.ReadLine();
+                if (!string.IsNullOrEmpty(input) && input.Split(' ').Length == 4)
+                {
+                    string[] ab = input.Split(' ');
+                    if (ulong.TryParse(ab[0], out ulong a) && ulong.TryParse(ab[1], out ulong b)
+                        && ulong.TryParse(ab[2], out ulong c) && ulong.TryParse(ab[3], out ulong d))
+                    {
+                        Last2DigitsFromMul(a, b, c, d);
+                        break;
+                    }
+                }
+            }
+        }
+    }
+}
