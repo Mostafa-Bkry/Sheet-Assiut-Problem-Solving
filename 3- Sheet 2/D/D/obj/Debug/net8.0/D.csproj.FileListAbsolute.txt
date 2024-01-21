@@ -1,0 +1,15 @@
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\bin\Debug\net8.0\D.exe
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\bin\Debug\net8.0\D.deps.json
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\bin\Debug\net8.0\D.runtimeconfig.json
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\bin\Debug\net8.0\D.dll
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\bin\Debug\net8.0\D.pdb
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.AssemblyInfoInputs.cache
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.AssemblyInfo.cs
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.csproj.CoreCompileInputs.cache
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.sourcelink.json
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.dll
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\refint\D.dll
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.pdb
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\D.genruntimeconfig.cache
+D:\Learning\Problem Solving\Sheet Assuit 2024\3- Sheet 2\D\D\obj\Debug\net8.0\ref\D.dll
