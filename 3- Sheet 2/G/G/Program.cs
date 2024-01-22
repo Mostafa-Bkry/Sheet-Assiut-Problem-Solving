@@ -3,11 +3,11 @@ namespace G
 {
     internal class Program
     {
-        public static uint Factorial(byte n)
+        public static decimal Factorial(byte n)
         {
-            uint result = 1;
+            decimal result = 1;
 
-            for (uint i = 2; i <= n; i++)
+            for (int i = 1; i <= n; i++)
                 result *= i;
 
             return result;
